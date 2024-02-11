@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The Mathematical Estimation Problem}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Assessing Estimator Performance}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Minimum Variance Unbiased Estimation}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Unbiased Estimators}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Example 2.1 and Example 2.2}{4}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Minimum Variance Criterion}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Existence of the Minimum Variance Unbiased Estimator}{6}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Finding the Minimum Variance Unbiased Estimator}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Cramer-Rao Lower Bound}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Estimator Accuracy Considerations}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Example 3.1 - PDF Dependence on Unknown Parameter}{6}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Cramer-Rao Lower Bound}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Example 3.3 - DC Level in White Gaussian Noise}{8}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Transformation of Parameters}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Extension to a Vector Parameter}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Example 3.6 - DC Level in White Gaussian Noise (Revisited)}{11}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Example 3.7 - Line Fitting}{11}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Vector Parameter CRLB for Transformations}{13}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Linear Models}{13}{section.4}%
+\contentsline {section}{\numberline {5}General Minimum Variance Unbiased Estimation}{13}{section.5}%
+\contentsline {section}{\numberline {6}Best Linear Unbiased Estimation}{13}{section.6}%
+\contentsline {section}{\numberline {7}Maximum Likelihood Estimation}{13}{section.7}%
+\contentsline {section}{\numberline {8}Least Squares}{13}{section.8}%
+\contentsline {section}{\numberline {9}The Bayesian Philosophy}{13}{section.9}%
+\contentsline {section}{\numberline {10}General Bayesian Estimators}{13}{section.10}%
+\contentsline {section}{\numberline {11}Linear Bayesian Estimators}{13}{section.11}%
+\contentsline {section}{\numberline {12}Kalman Filters}{13}{section.12}%
+\contentsline {section}{\numberline {13}References}{13}{section.13}%
+\contentsline {section}{\numberline {14}Revision log}{13}{section.14}%
