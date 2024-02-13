@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  11 FEB 2024 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.21)  13 FEB 2024 14:32
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -645,6 +645,13 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen195
 \Gm@dimlist=\toks35
 )
+
+Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
+put line 23.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
 (c:/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -939,14 +946,14 @@ runsystem(del Notes_on_Estimation_Theory.aex)...executed.
 
 
 
-./Notes on Estimation Theory.tex:54: Package minted Error: You must have `pygme
+./Notes on Estimation Theory.tex:55: Package minted Error: You must have `pygme
 ntize' installed to use this package.
 
 See the minted package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.54 \begin{document}
+l.55 \begin{document}
                      
 Refer to the installation instructions in the minted documentation for more inf
 ormation.
@@ -958,32 +965,32 @@ LaTeX Warning: Unused global option(s):
 (E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.aux)
 \openout1 = `"Notes on Estimation Theory.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 55.
 LaTeX Font Info:    Trying to load font information for LUC+nanummj on input li
-ne 54.
+ne 55.
 
 (c:/texlive/2023/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    ... okay on input line 55.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1007,7 +1014,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 54.
+Package hyperref Info: Link coloring OFF on input line 55.
 
 (E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.out)
 (E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.out)
@@ -1049,108 +1056,337 @@ Package hyperref Info: Link coloring OFF on input line 54.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 57.
 
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 
 
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.toc)
-\tf@toc=\write7
-\openout7 = `"Notes on Estimation Theory.toc"'.
-
-
+(E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.toc
 [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texlive/2023/texmf-dist
-/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+\tf@toc=\write7
+\openout7 = `"Notes on Estimation Theory.toc"'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
+<1.png, id=328, 845.1575pt x 464.73625pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 77.
+(pdftex.def)             Requested size: 284.52756pt x 156.45523pt.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+
+ []
+
+<2.png, id=377, 861.2175pt x 473.77pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 138.
+(pdftex.def)             Requested size: 284.52756pt x 156.52531pt.
+[3 <./1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--95
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
 
  []
 
 
-./Notes on Estimation Theory.tex:127: LaTeX Error: \mathbf allowed only in math
- mode.
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
+
+ []
+
+<3.png, id=420, 1102.1175pt x 321.2pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 185.
+(pdftex.def)             Requested size: 341.43306pt x 99.50725pt.
+[4 <./2.png> <./3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 264--267
+
+ []
+
+[5] [6]
+<4.png, id=467, 1284.8pt x 681.54625pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 360.
+(pdftex.def)             Requested size: 369.88582pt x 196.2082pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--373
+
+ []
+
+[7 <./4.png>]
+<5.png, id=479, 1084.05pt x 412.54124pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 434.
+(pdftex.def)             Requested size: 369.88582pt x 140.75946pt.
+
+./Notes on Estimation Theory.tex:464: Missing number, treated as zero.
+<to be read again> 
+                   L
+l.464 }
+       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Notes on Estimation Theory.tex:464: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   L
+l.464 }
+       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./Notes on Estimation Theory.tex:464: LaTeX Error: There's no line here to end.
+
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.127 - $p(\mathbf
-                  {x} | \theta)$ : conditional pdf : $\theta$를 알고 있�...
+l.464 }
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<6.png, id=480, 1284.8pt x 719.68875pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 464.
+(pdftex.def)             Requested size: 369.88582pt x 207.18893pt.
 
-./Notes on Estimation Theory.tex:127: Missing $ inserted.
-<inserted text> 
-                $
-l.127 - $p(\mathbf{x} | \theta
-                              )$ : conditional pdf : $\theta$를 알고 있�...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--129
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 139--143
+[8 <./5.png>] [9 <./6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 601--603
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 151--153
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 635--637
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 169--171
+Underfull \hbox (badness 10000) in paragraph at lines 666--668
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 257--260
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 361--363
-
- []
-
-[5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 650--652
-
- []
-
-[8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 811--813
+[11]
+<7.png, id=540, 1211.52625pt x 494.84875pt>
+File: 7.png Graphic file (type png)
+<use 7.png>
+Package pdftex.def Info: 7.png  used on input line 819.
+(pdftex.def)             Requested size: 369.88582pt x 151.07588pt.
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 843--846
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 822--825
+Underfull \hbox (badness 10000) in paragraph at lines 876--878
 
  []
 
-[10] [11] [12]
-./Notes on Estimation Theory.tex:1067: Misplaced alignment tab character &.
+[13 <./7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 949--951
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1078
+
+ []
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1262--1264
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 1335--1337
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 1392--1394
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1448--1450
+
+ []
+
+[19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 1689--1691
+
+ []
+
+[21]
+<8.png, id=681, 1252.68pt x 606.265pt>
+File: 8.png Graphic file (type png)
+<use 8.png>
+Package pdftex.def Info: 8.png  used on input line 1741.
+(pdftex.def)             Requested size: 369.88582pt x 179.01314pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1753
+
+ []
+
+[22 <./8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1794--1797
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1805--1807
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1846--1848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1854--1857
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 1910--1913
+
+ []
+
+<9.png, id=716, 904.37875pt x 566.115pt>
+File: 9.png Graphic file (type png)
+<use 9.png>
+Package pdftex.def Info: 9.png  used on input line 1950.
+(pdftex.def)             Requested size: 312.9803pt x 195.91455pt.
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 1992--1994
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2016--2019
+
+ []
+
+[26 <./9.png>]
+<10.png, id=738, 1202.4925pt x 816.04875pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 2024.
+(pdftex.def)             Requested size: 369.88582pt x 251.01755pt.
+ [27 <./10.png>]
+<11.png, id=752, 1262.7175pt x 630.355pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 2096.
+(pdftex.def)             Requested size: 369.88582pt x 184.645pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2151--2153
+
+ []
+
+[28 <./11.png>] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 2318--2320
+
+ []
+
+[30]
+<12.png, id=796, 1124.2pt x 516.93124pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 2400.
+(pdftex.def)             Requested size: 369.88582pt x 170.07513pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2441--2444
+
+ []
+
+[31 <./12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 2505--2507
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 2569--2571
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2617--2619
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2744
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 2794--2796
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2801--2804
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2835--2838
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 2883--2886
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2898--2901
+
+ []
+
+[36] [37]
+./Notes on Estimation Theory.tex:3056: Misplaced alignment tab character &.
 <argument> ...d nonlinear approaches. John Wiley &
                                                    Sons, 2006.
-l.1067 ...ar approaches. John Wiley & Sons, 2006.}
+l.3056 ...ar approaches. John Wiley & Sons, 2006.}
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1159,87 +1395,126 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[13] (E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.aux)
+[38] (E:\\repo\\supplementary_materials\\blog/Notes on Estimation Theory.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `"Notes on Estimation Theory".out' has not ch
 anged.
-(rerunfilecheck)             Checksum: F718AD98AAFB9972AF0CA58605ED9299;6278.
+(rerunfilecheck)             Checksum: E0D4D7CC1176F975B306E6716F442271;14505.
  ) 
 Here is how much of TeX's memory you used:
- 25983 strings out of 474165
- 485621 string characters out of 5749497
- 1956542 words of memory out of 5000000
- 47628 multiletter control sequences out of 15000+600000
- 590568 words of font info for 133 fonts, out of 8000000 for 9000
+ 26593 strings out of 474165
+ 494955 string characters out of 5749497
+ 1959542 words of memory out of 5000000
+ 47966 multiletter control sequences out of 15000+600000
+ 603739 words of font info for 174 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,93p,815b,634s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,21n,93p,1223b,886s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2023/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmib10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
-0.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/t
-exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/t
-ype1/public/amsfonts/symbols/msam7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
-public/amsfonts/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
-ic/nanumtype1/nanummjmac.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nan
-umtype1/nanummjmad.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype
-1/nanummjmae.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanu
-mmjmb0.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1
-.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><
-c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/tex
-live/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2
-023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2023/te
-xmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2023/texmf-di
-st/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2023/texmf-dist/fon
-ts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2023/texmf-dist/fonts/typ
-e1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pub
-lic/nanumtype1/nanummjmba.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/na
-numtype1/nanummjmbb.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtyp
-e1/nanummjmbc.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nan
-ummjmbd.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb
-e.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb>
-<c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/te
-xlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/
-2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2023/t
-exmf-dist/fonts/type1/public/nanumtype1/nanummjmc3.pfb><c:/texlive/2023/texmf-d
-ist/fonts/type1/public/nanumtype1/nanummjmc4.pfb><c:/texlive/2023/texmf-dist/fo
-nts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2023/texmf-dist/fonts/ty
-pe1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pu
-blic/nanumtype1/nanummjmc7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/n
-anumtype1/nanummjmc8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumty
-pe1/nanummjmc9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/na
-nummjmcc.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjm
-cd.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb
-><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/t
-exlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive
-/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2023/
-texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2023/texmf-
-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2023/texmf-dist/f
-onts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2023/texmf-dist/fonts/t
-ype1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
-ublic/nanumtype1/nanummjmd6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/
-nanumtype1/nanummjmd7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-sup
-er/sfbx1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx120
-0.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/
-texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/20
-23/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2023/texmf-d
-ist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/
-type1/public/cm-super/sfrm0900.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
-ic/cm-super/sfrm1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-supe
-r/sfrm1728.pfb>
+t/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><c:/texlive/2023/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmib10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmi
+b7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/20
+23/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/sy
+mbols/msam7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols
+/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjba
+c.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb>
+<c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/te
+xlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb0.pfb><c:/texlive/
+2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb1.pfb><c:/texlive/2023/t
+exmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/texlive/2023/texmf-d
+ist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2023/texmf-dist/fo
+nts/type1/public/nanumtype1/nanummjbb4.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/nanumtype1/nanummjbb5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pu
+blic/nanumtype1/nanummjbb6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/n
+anumtype1/nanummjbb7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumty
+pe1/nanummjbb8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/na
+nummjbb9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjb
+ba.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb
+><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/t
+exlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbd.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2023/
+texmf-dist/fonts/type1/public/nanumtype1/nanummjbbf.pfb><c:/texlive/2023/texmf-
+dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/texlive/2023/texmf-dist/f
+onts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2023/texmf-dist/fonts/t
+ype1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
+ublic/nanumtype1/nanummjbc3.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/
+nanumtype1/nanummjbc5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumt
+ype1/nanummjbc6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/n
+anummjbc7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummj
+bc8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pf
+b><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/
+texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcd.pfb><c:/texliv
+e/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb><c:/texlive/2023
+/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd0.pfb><c:/texlive/2023/texmf
+-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2023/texmf-dist/
+fonts/type1/public/nanumtype1/nanummjbd2.pfb><c:/texlive/2023/texmf-dist/fonts/
+type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
+public/nanumtype1/nanummjbd4.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public
+/nanumtype1/nanummjbd5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanum
+type1/nanummjbd6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/
+nanummjbd7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanumm
+jmac.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.p
+fb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:
+/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texli
+ve/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/202
+3/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2023/texm
+f-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2023/texmf-dist
+/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2023/texmf-dist/fonts
+/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2023/texmf-dist/fonts/type1
+/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publi
+c/nanumtype1/nanummjmb7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanu
+mtype1/nanummjmb8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1
+/nanummjmb9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanum
+mjmba.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.
+pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c
+:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texl
+ive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/20
+23/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb><c:/texlive/2023/tex
+mf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2023/texmf-dis
+t/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2023/texmf-dist/font
+s/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2023/texmf-dist/fonts/type
+1/public/nanumtype1/nanummjmc3.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
+ic/nanumtype1/nanummjmc4.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nan
+umtype1/nanummjmc5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype
+1/nanummjmc6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanu
+mmjmc7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8
+.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><
+c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/tex
+live/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2
+023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2023/te
+xmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2023/texmf-di
+st/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2023/texmf-dist/fon
+ts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2023/texmf-dist/fonts/typ
+e1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pub
+lic/nanumtype1/nanummjmd3.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/na
+numtype1/nanummjmd4.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtyp
+e1/nanummjmd5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nan
+ummjmd6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd
+7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/
+texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/20
+23/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2023/texmf-d
+ist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2023/texmf-dist/fonts/
+type1/public/cm-super/sfrm0700.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-supe
+r/sfrm0900.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000
+.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
 Output written on "E:\\repo\\supplementary_materials\\blog/Notes on Estimation 
-Theory.pdf" (13 pages, 2453613 bytes).
+Theory.pdf" (38 pages, 4932312 bytes).
 PDF statistics:
- 672 PDF objects out of 1000 (max. 8388607)
- 522 compressed objects within 6 object streams
- 126 named destinations out of 1000 (max. 500000)
- 253 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1429 PDF objects out of 1440 (max. 8388607)
+ 1138 compressed objects within 12 object streams
+ 354 named destinations out of 1000 (max. 500000)
+ 561 words of extra memory for PDF output out of 10000 (max. 10000000)
 
